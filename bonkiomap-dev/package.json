@@ -13,6 +13,7 @@
     "btoa": "^1.2.1"
   },
   "dependencies": {
+    "bonkiomap": "^1.0.0",
     "sanitize-filename": "^1.6.3"
   }
 }
