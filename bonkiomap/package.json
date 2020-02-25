@@ -1,0 +1,14 @@
+{
+  "name": "bonkiomap",
+  "version": "1.0.0",
+  "description": "This is a library for interacting with the bonkio map format",
+  "main": "index.js",
+  "author": "Georges Oates Larsen",
+  "license": "ISC",
+  "dependencies": {
+    "bytearray-node": "^3.1.7",
+    "md5": "^2.2.1",
+    "murmurhash-native": "^3.4.1",
+    "pako": "^1.0.11"
+  }
+}
